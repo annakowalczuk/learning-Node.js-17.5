@@ -1,0 +1,19 @@
+{
+  "name": "npm-learning",
+  "version": "1.0.0",
+  "description": "testowy plik do nauki npm'a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "npm",
+    "learning"
+  ],
+  "author": "AK",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.2"
+  }
+}
